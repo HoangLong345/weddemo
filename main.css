@@ -1,5 +1,5 @@
 :root {
-  --text-color: skyblue;
+  --text-color: rgb(3, 20, 27);
 }
 #firsh {
   color: var(--text-color);
@@ -13,6 +13,8 @@ h2 {
   color: yellow;
   font-size: 40px;
 }
-#login {
-  color: var(--text-color);
+.box {
+  width: 75%;
+  height: 25%;
+  background-color: skyblue;
 }
