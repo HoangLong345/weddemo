@@ -1,5 +1,8 @@
+:root {
+  --text-color: skyblue;
+}
 #firsh {
-  color: red;
+  color: var(--text-color);
   font-size: 70px;
 }
 #second {
@@ -10,7 +13,6 @@ h2 {
   color: yellow;
   font-size: 40px;
 }
-#button {
-  color: rgb(122, 105, 65);
-  font-size: 30px;
+#login {
+  color: var(--text-color);
 }
