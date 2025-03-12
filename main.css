@@ -1,5 +1,16 @@
-h1 {
-  color: blue;
-  font-size: 34px;
-  font-family: Times-New-Roman sans-serif;
+#firsh {
+  color: red;
+  font-size: 70px;
+}
+#second {
+  color: green;
+  font-size: 50px;
+}
+h2 {
+  color: yellow;
+  font-size: 40px;
+}
+#button {
+  color: rgb(122, 105, 65);
+  font-size: 30px;
 }
